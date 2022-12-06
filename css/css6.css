@@ -59,7 +59,7 @@ nav.main-menu ul {
 
 .main-menu a {
   color: rgb(0, 0, 0);
-  font-size: 25px;
+  font-size: 30px;
   font-family: 'Times New Roman', Times, serif;
 }
 
@@ -149,7 +149,16 @@ figure.slides {
   margin-right: 20px;
 }
 .job img{
-  margin-left: 300px;
+  margin-left: 10px;
+  width: 400px;
+  height: 300px;
+  
+}
+span{
+margin-left: 80px;
+}
+ins{
+    margin-left: 60px;
 }
 /* Подвал */
 footer.page-footer {
@@ -216,7 +225,7 @@ h2{
   border-radius: 10px;
   display: block;
   margin: auto;
-  margin-top: 80px;
+  margin-top: -340px;
   margin-left: 550px;
   text-decoration: none;
   font-size: 20px;
