@@ -68,7 +68,7 @@ main {
   background-color: rgb(85, 151, 83);
   height: 1500px;
   background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAMAAAApB0NrAAAABlBMVEX///+pqalTpKl9AAAAAnRSTlMAGovxNEIAAAAdSURBVDjLY2AAAUaG4UYxDDsfjfp91O+jfqfE7wCzpQCw/dq+qQAAAABJRU5ErkJggg==");
-  width: 700px;
+  width: 1200px;
   margin-right: 0px;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -148,7 +148,7 @@ figure.slides {
   margin-right: 20px;
 }
 .job img{
-  margin-left: 100px;
+  margin-left: 300px;
 }
 /* Подвал */
 footer.page-footer {
@@ -216,7 +216,7 @@ h2{
   display: block;
   margin: auto;
   margin-top: 80px;
-  margin-left: 350px;
+  margin-left: 550px;
   text-decoration: none;
   font-size: 20px;
   text-transform: uppercase;
